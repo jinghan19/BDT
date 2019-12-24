@@ -6,7 +6,7 @@ import androidx.room.PrimaryKey
 import java.util.*
 
 @Entity(tableName = "birthday")
-data class DB (
+data class BD (
     @PrimaryKey(autoGenerate = true) val id: Int,
     @ColumnInfo(name = "name")
     val name:String,
