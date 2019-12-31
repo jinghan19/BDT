@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">BDT</string>
     <string name="action_settings">Settings</string>
-    <string name="Name">Name</string>
-    <string name="DOB">DOB</string>
+    <string name="add">add</string>
+    <string name="name">Name</string>
+    <string name="dob">DOB</string>
+    <string name="SAVE">SAVE</string>
 </resources>

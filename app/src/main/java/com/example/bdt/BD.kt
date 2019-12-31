@@ -11,6 +11,6 @@ data class BD (
     @ColumnInfo(name = "name")
     val name:String,
     @ColumnInfo(name = "dob")
-    val dob: String
+    val dob: Long
 
 )
